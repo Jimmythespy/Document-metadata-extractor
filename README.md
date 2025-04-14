@@ -1,4 +1,4 @@
-Program to extract legal documents' number and issuance date, using:
+## Program to extract legal documents' number and issuance date, using:
 - EasyOCR
 - Tesseract
 - OpenCV
